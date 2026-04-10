@@ -1,0 +1,13 @@
+2026-04-09 15:36:51,838 | INFO | Donusum basladi | PDF: C:\Users\Lenovo\pdf-to-flipbook\pdf_to_flipbook\output\_temp_uploads\ATENA - PEB Machinery.pdf
+2026-04-09 15:36:51,849 | INFO | StPageFlip JS kopyalandi: C:\Users\Lenovo\pdf-to-flipbook\pdf_to_flipbook\output\flipbook_ATENA_-_PEB_Machinery\stpageflip.min.js
+2026-04-09 15:36:51,853 | WARNING | pdf2image basarisiz, fallback deneniyor: PDF bilgisi okunamadi. Poppler kurulumu eksik olabilir.
+2026-04-09 15:36:52,245 | INFO | Fallback renderer aktif: pypdfium2
+2026-04-09 15:36:52,757 | INFO | Sayfa kaydedildi (pdfium): page_001.png
+2026-04-09 15:36:53,593 | INFO | Sayfa kaydedildi (pdfium): page_002.png
+2026-04-09 15:36:54,317 | INFO | Sayfa kaydedildi (pdfium): page_003.png
+2026-04-09 15:36:54,946 | INFO | Sayfa kaydedildi (pdfium): page_004.png
+2026-04-09 15:36:55,510 | INFO | Sayfa kaydedildi (pdfium): page_005.png
+2026-04-09 15:36:56,107 | INFO | Sayfa kaydedildi (pdfium): page_006.png
+2026-04-09 15:36:56,208 | INFO | HTML, dis template ile olusturuldu: C:\Users\Lenovo\pdf-to-flipbook\pdf_to_flipbook\templates\flipbook_template.html
+2026-04-09 15:36:56,238 | INFO | HTML olusturuldu: C:\Users\Lenovo\pdf-to-flipbook\pdf_to_flipbook\output\flipbook_ATENA_-_PEB_Machinery\index.html
+2026-04-09 15:36:56,238 | INFO | Donusum tamamlandi.
